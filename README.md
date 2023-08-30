@@ -1,5 +1,5 @@
 # DB_Lab_Archive
-
+This repository houses the course materials for my undergraduate database design lab, encompassing assignments and a final project on designing an automotive sales database.
 ## Assignments
 ### Lab 1
 This lab focuses on database schema design by defining tables, columns, keys, and relationships, as well as inserting sample data using INSERT statements and basic SELECT queries to retrieve data.
