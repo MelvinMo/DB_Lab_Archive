@@ -103,7 +103,7 @@ namespace DB_Lab_phase3
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(201, 44);
             this.label4.TabIndex = 4;
-            this.label4.Text = "امیرمهدی مختاری";
+            this.label4.Text = "ملوین مختاری";
             // 
             // Form_intro
             // 
