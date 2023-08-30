@@ -25,7 +25,7 @@ This lab covers the bcp utility for bulk import and export of data between SQL S
 ### Lab 8
 This lab demonstrates transaction isolation levels and concurrency issues like dirty reads and non-repeatable reads using BEGIN TRAN, COMMIT, and SET TRANSACTION ISOLATION LEVEL statements.
 
-### Project
+## Project
 "Carstock" is an automotive sales database, a robust and comprehensive system specifically designed for a global auto sales company. Its primary objective is to facilitate the seamless buying and selling of vehicles by providing a centralized platform for both customers and suppliers. The database schema, implemented using Microsoft SQL Server, includes well-defined tables to store crucial data related to vehicles, customers, suppliers, sales transactions, and other relevant entities.
 
 To ensure the integrity and efficiency of the database, relationships between tables were established using primary keys and foreign keys. This allowed for proper data organization and efficient retrieval of interconnected information. Additionally, a substantial amount of sample data, comprising over 200,000 records, was generated and populated across the various entities.
